@@ -1,0 +1,72 @@
+[{
+  "_id": "1",
+  "equipo": "Barranquilla",
+  "partidos_jugados": "2",
+  "partidos_ganados": "2",
+  "partidos_empatados": "0",
+  "partidos_perdidos": "0",
+  "goles_a_favor": "6",
+  "goles_en_contra": "1",
+  "diferencia_de_goles": "5",
+  "puntos": "6"
+},
+{
+  "_id": "2",
+  "equipo": "Medellin",
+  "partidos_jugados": "2",
+  "partidos_ganados": "2",
+  "partidos_empatados": "0",
+  "partidos_perdidos": "0",
+  "goles_a_favor": "4",
+  "goles_en_contra": "1",
+  "diferencia_de_goles": "3",
+  "puntos": "6"
+},
+{
+  "_id": "3",
+  "equipo": "Llaneros",
+  "partidos_jugados": "2",
+  "partidos_ganados": "1",
+  "partidos_empatados": "1",
+  "partidos_perdidos": "0",
+  "goles_a_favor": "3",
+  "goles_en_contra": "1",
+  "diferencia_de_goles": "2",
+  "puntos": "4"
+},
+{
+  "_id": "4",
+  "equipo": "Atletico",
+  "partidos_jugados": "2",
+  "partidos_ganados": "0",
+  "partidos_empatados": "1",
+  "partidos_perdidos": "1",
+  "goles_a_favor": "1",
+  "goles_en_contra": "2",
+  "diferencia_de_goles": "-1",
+  "puntos": "1"
+},
+{
+  "_id": "5",
+  "equipo": "Cali",
+  "partidos_jugados": "2",
+  "partidos_ganados": "0",
+  "partidos_empatados": "0",
+  "partidos_perdidos": "2",
+  "goles_a_favor": "1",
+  "goles_en_contra": "4",
+  "diferencia_de_goles": "-3",
+  "puntos": "0"
+},
+{
+  "_id": "6",
+  "equipo": "Bogota",
+  "partidos_jugados": "2",
+  "partidos_ganados": "0",
+  "partidos_empatados": "0",
+  "partidos_perdidos": "2",
+  "goles_a_favor": "1",
+  "goles_en_contra": "7",
+  "diferencia_de_goles": "-6",
+  "puntos": "0"
+}]

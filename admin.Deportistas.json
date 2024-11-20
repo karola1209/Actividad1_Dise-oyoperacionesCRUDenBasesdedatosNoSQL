@@ -1,0 +1,48 @@
+[{
+  "_id": "1",
+  "nombre": "Jacobo",
+  "apellido": "Perez",
+  "edad": "18",
+  "equipo": "Cali",
+  "sexo": "masculino"
+},
+{
+  "_id": "2",
+  "nombre": "Juan",
+  "apellido": "Manga",
+  "edad": "20",
+  "equipo": "Llaneros",
+  "sexo": "masculino"
+},
+{
+  "_id": "3",
+  "nombre": "Carlos",
+  "apellido": "Rodriguez",
+  "edad": "20",
+  "equipo": "Barranquilla",
+  "sexo": "masculino"
+},
+{
+  "_id": "4",
+  "nombre": "Alberto",
+  "apellido": "Martinez",
+  "edad": "19",
+  "equipo": "Bogota",
+  "sexo": "masculino"
+},
+{
+  "_id": "5",
+  "nombre": "Jesus",
+  "apellido": "Alvarado",
+  "edad": "21",
+  "equipo": "Medellin",
+  "sexo": "masculino"
+},
+{
+  "_id": "6",
+  "nombre": "Alvaro",
+  "apellido": "Morata",
+  "edad": "18",
+  "equipo": "Atletico",
+  "sexo": "masculino"
+}]

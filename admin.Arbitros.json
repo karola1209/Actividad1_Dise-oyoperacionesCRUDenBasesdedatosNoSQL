@@ -1,0 +1,36 @@
+[{
+  "_id": "1",
+  "nombre": "Pedro",
+  "apellido": "Pertuz",
+  "Disponibilidad": "no"
+},
+{
+  "_id": "2",
+  "nombre": "Richard",
+  "apellido": "Jinette",
+  "disponibilidad": "no"
+},
+{
+  "_id": "3",
+  "nombre": "Kevin",
+  "apellido": "Salgado",
+  "disponibilidad": "no"
+},
+{
+  "_id": "4",
+  "nombre": "Yefrey",
+  "apellido": "Armenta",
+  "disponibilidad": "Si"
+},
+{
+  "_id": "5",
+  "nombre": "Yilmar",
+  "apellido": "Fontalvo",
+  "disponibilidad": "Si"
+},
+{
+  "_id": "6",
+  "nombre": "Luis",
+  "apellido": "Romo",
+  "disponibilidad": "Si"
+}]

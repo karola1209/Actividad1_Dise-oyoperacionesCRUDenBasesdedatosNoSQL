@@ -1,0 +1,36 @@
+[{
+  "_id": "1",
+  "nombre": "cali",
+  "cantidad-jugadores": "10",
+  "posision": "5"
+},
+{
+  "_id": "2",
+  "nombre": "Barranquilla",
+  "cantidad-jugadores": "10",
+  "posision": "1"
+},
+{
+  "_id": "3",
+  "nombre": "Medellin",
+  "cantidad-jugadores": "9",
+  "posision": "2"
+},
+{
+  "_id": "4",
+  "nombre": "Llaneros",
+  "cantidad-jugadores": "10",
+  "posision": "3"
+},
+{
+  "_id": "5",
+  "nombre": "Bogota",
+  "cantidad-jugadores": "9",
+  "posision": "6"
+},
+{
+  "_id": "6",
+  "nombre": "Atletico",
+  "cantidad-jugadores": "10",
+  "posision": "4"
+}]

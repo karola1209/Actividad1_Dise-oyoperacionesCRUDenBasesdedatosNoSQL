@@ -1,0 +1,30 @@
+[{
+  "_id": "1",
+  "equipo_local": "Barranquilla",
+  "equipo_visitante": "Bogota"
+},
+{
+  "_id": "2",
+  "equipo_local": "Medellin",
+  "equipo_visitante": "Cali"
+},
+{
+  "_id": "3",
+  "equipo_local": "Llaneros",
+  "equipo_visitante": "Atletico"
+},
+{
+  "_id": "4",
+  "equipo_local": "Atletico",
+  "equipo_visitante": "Barranquilla"
+},
+{
+  "_id": "5",
+  "equipo_local": "Bogota",
+  "equipo_visitante": "Medellin"
+},
+{
+  "_id": "6",
+  "equipo_local": "Cali",
+  "equipo_visitante": "Llaneros"
+}]

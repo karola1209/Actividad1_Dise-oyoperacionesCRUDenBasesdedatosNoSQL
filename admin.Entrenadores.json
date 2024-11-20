@@ -1,0 +1,42 @@
+[{
+  "_id": "1",
+  "nombre": "Alejandro",
+  "apellido": "Diniz",
+  "equipo": "Bogota",
+  "nacionalidad": "Brazileño"
+},
+{
+  "_id": "2",
+  "nombre": "Hernan",
+  "apellido": "Gomez",
+  "equipo": "Cali",
+  "nacionalidad": "Colombiano"
+},
+{
+  "_id": "3",
+  "nombre": "Marcelo",
+  "apellido": "Gallardo",
+  "equipo": "Barranquilla",
+  "nacionalidad": "Argentino"
+},
+{
+  "_id": "4",
+  "nombre": "Julio",
+  "apellido": "Comesaña",
+  "equipo": "Medellin",
+  "nacionalidad": "Urugayo"
+},
+{
+  "_id": "5",
+  "nombre": "Giovany",
+  "apellido": "Hernandez",
+  "equipo": "Llaneros",
+  "nacionalidad": "Colombiano"
+},
+{
+  "_id": "6",
+  "nombre": "Diego",
+  "apellido": "Simeone",
+  "equipo": "Atletico",
+  "nacionalidad": "Argentino"
+}]

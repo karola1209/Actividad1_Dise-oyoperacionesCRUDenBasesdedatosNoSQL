@@ -1,0 +1,84 @@
+[{
+  "_id": "1",
+  "encuentro_id": "2",
+  "goles_local": "2",
+  "goles_visitante": "1",
+  "tarjetas_amarillas": {
+    "equipo_local": "1",
+    "equipo_visitante": "2"
+  },
+  "tarjetas_rojas": {
+    "equipo_local": "0",
+    "equipo_visitante": "0"
+  }
+},
+{
+  "_id": "2",
+  "encuentro_id": "3",
+  "goles_local": "1",
+  "goles_visitante": "1",
+  "tarjetas_amarillas": {
+    "equipo_local": "3",
+    "equipo_visitante": "2"
+  },
+  "tarjetas_rojas": {
+    "equipo_local": "0",
+    "equipo_visitante": "1"
+  }
+},
+{
+  "_id": "3",
+  "encuentro_id": "1",
+  "goles_local": "5",
+  "goles_visitante": "1",
+  "tarjetas_amarillas": {
+    "equipo_local": "2",
+    "equipo_visitante": "2"
+  },
+  "tarjetas_rojas": {
+    "equipo_local": "0",
+    "equipo_visitante": "0"
+  }
+},
+{
+  "_id": "4",
+  "encuentro_id": "5",
+  "goles_local": "0",
+  "goles_visitante": "2",
+  "tarjetas_amarillas": {
+    "equipo_local": "3",
+    "equipo_visitante": "2"
+  },
+  "tarjetas_rojas": {
+    "equipo_local": "0",
+    "equipo_visitante": "0"
+  }
+},
+{
+  "_id": "5",
+  "encuentro_id": "6",
+  "goles_local": "0",
+  "goles_visitante": "2",
+  "tarjetas_amarillas": {
+    "equipo_local": "3",
+    "equipo_visitante": "2"
+  },
+  "tarjetas_rojas": {
+    "equipo_local": "0",
+    "equipo_visitante": "0"
+  }
+},
+{
+  "_id": "6",
+  "encuentro_id": "4",
+  "goles_local": "0",
+  "goles_visitante": "1",
+  "tarjetas_amarillas": {
+    "equipo_local": "2",
+    "equipo_visitante": "3"
+  },
+  "tarjetas_rojas": {
+    "equipo_local": "0",
+    "equipo_visitante": "0"
+  }
+}]
